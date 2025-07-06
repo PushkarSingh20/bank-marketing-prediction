@@ -44,10 +44,6 @@ Banks want to identify potential clients who are most likely to subscribe to a t
 
 XGBoost gave the most balanced performance with an accuracy of **84%**, and strong precision and recall scores.
 
-## 📎 Screenshots
-
-_Include any plots or model output screenshots here if you want_
-
 ## 👨‍💻 Author
 
 **Pushkar Singh**  
